@@ -1,6 +1,6 @@
 # LOCATOR-ARRANGER
 A locator-to-HTML smart shelf-packing photo album arranger with customizable styling. Designed to work with Locator.
-> [locator](https://github.com/connorjlink/locator).
+> [https://github.com/connorjlink/locator](https://github.com/connorjlink/locator).
 
 ## EXAMPLE USAGE
 ```bash
